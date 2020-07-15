@@ -1,0 +1,145 @@
+
+
+body {
+
+}
+
+.jumbotron {
+    background-image: url(https://images.pexels.com/photos/3815759/pexels-photo-3815759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
+
+.nav {
+    background-color: rgba(34, 32, 32, 0.521);
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+    font-family: 'Monoton', cursive;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: darkorange;
+    font-family: 'Monoton', cursive;
+}
+
+
+#myName {
+    font-family: 'Merienda One', cursive;
+    z-index: 2;
+    color: white;
+}
+
+#myName span {
+    color: darkorange;
+}
+
+h5 {
+    font-family: 'Tillana', cursive;
+    z-index: 2;
+    color: white;
+}
+
+h5 span {
+    color: darkorange ;
+}
+
+#one {
+    height: 600px;
+    background-color: white;
+}
+hr {
+    margin: 0;
+    padding: 0;
+}
+
+#fido {
+    
+    height: 600px;
+    background-image: url(https://images.pexels.com/photos/3945271/pexels-photo-3945271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    text-align: center;
+    color: darkorange;
+    font-family: 'Monoton', cursive;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Merienda One', cursive;
+}
+
+h2 span {
+    color:darkorange;
+}
+
+.name-fido {
+    margin: auto;
+    display: inline-block;
+}
+
+#about-fido {
+    text-align: center;
+    height: 600px;
+    background-color: black;
+    color: white;
+    font-family: 'Merienda One', cursive;
+}
+
+#about-chef {
+    background-color: black;
+    height: 600px;
+    text-align: center;
+    color: white;
+    font-family: 'Merienda One', cursive;
+}
+
+#chef {
+    background-image: url(https://images.pexels.com/photos/4397814/pexels-photo-4397814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: darkorange;
+    font-family: 'Monoton', cursive;
+    
+}
+
+#monopoly {
+    background-image: url(https://images.pexels.com/photos/1329644/pexels-photo-1329644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: darkorange;
+    font-family: 'Monoton', cursive;
+}
+
+#about-monopoly {
+    background-color: black;
+    height: 600px;
+    text-align: center;
+    color: white;
+    font-family: 'Merienda One', cursive;
+}
+
+#contact {
+    background-image: url(https://images.pexels.com/photos/209663/pexels-photo-209663.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Merienda One', cursive;
+}
+
+#footer {
+    background-color: rgba(34, 32, 32, 0.521);
+    text-align: center;
+}
+
+.social-links {
+    color: cornsilk;
+}
